@@ -77,7 +77,7 @@
                                         <li class="dropdown active">
                                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" >Home </a>
                                             <ul class="dropdown-menu">
-                                                <li><a href="index.html">Home Page1</a></li>
+                                                <li><a href="index.php">Home Page1</a></li>
                                                 <li><a href="index-2.html">Home Page2</a></li>
                                                 <li><a href="index-3.html">Home Page3</a></li>
 

@@ -54,7 +54,7 @@ function purify($var)
   <div>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
-  <a class="navbar-brand ion-arrow-left-c btn" href="index.html" >Home page</a>
+  <a class="navbar-brand ion-arrow-left-c btn" href="index.php" >Home page</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarEx" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="toggle navigation">
   <span class="navbar-toggler-icon"></span>
   </button>

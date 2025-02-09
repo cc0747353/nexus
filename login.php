@@ -19,7 +19,7 @@ session_start();
 
     <!-- Theme Style -->
     <link rel="stylesheet" href="css/style.css">
-<a href="index.html" class=" ion-arrow-left-c btn">Home Page</a>
+<a href="index.php" class=" ion-arrow-left-c btn">Home Page</a>
   </head>
 <?php 
 if(isset($_POST['username'])){

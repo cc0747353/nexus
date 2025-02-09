@@ -33,7 +33,7 @@ $result=mysqli_query($con,$query)  or die("There was an error with this mail <a 
     }
     ?>
     <h3><p>Thanks for getting in touch with us. Expect our reply mail in an hours time.</p></h3>
-    <a class="btn btn-info" href="index.html">Go to Home Page</a>
+    <a class="btn btn-info" href="index.php">Go to Home Page</a>
     <div id="loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#f4b214"/></svg></div>
 
 <script src="js/jquery-3.2.1.min.js"></script>

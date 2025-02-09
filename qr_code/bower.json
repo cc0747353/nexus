@@ -10,7 +10,7 @@
   "ignore": [
     "bower_components",
     "node_modules",
-    "index.html",
+    "index.php",
     "index.svg",
     "jquery.min.js",
     "qrcode.min.js"
